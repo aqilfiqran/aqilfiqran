@@ -13,4 +13,4 @@ My Name is Aqil Fiqran Dzi'Ul Haq
 - 😄 I can speak with indonesia and english language
 - ⚡ Fun fact: 
     - I'm a big fan of typescript
-    - Intest to something new
+
