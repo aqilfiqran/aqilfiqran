@@ -8,9 +8,9 @@ My Name is Aqil Fiqran Dzi'Ul Haq
     - Golang
     - Indoor Positioning System
 - 👯 I’m looking to collaborate on IoT
-- 💬 Ask me about Typescript
+- 💬 Ask me about TypeScript
 - 📫 How to reach me: aqilfiqran19@gmail.com
-- 😄 I can speak with indonesia and english language
+- 😄 I can speak with Indonesia and English language
 - ⚡ Fun fact: 
-    - I'm a big fan of typescript
+    - I'm a big fan of TypeScript
 
