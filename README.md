@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 My Name is Aqil Fiqran Dzi'Ul Haq
-- 🔭 I’m currently working on PHP, React JS, Node JS, React Native
+- 🔭 I’m currently working on React Native, React, Next.js, Node.js, and PHP 
 - 🌱 I’m currently learning: 
-    - Rust
+    - Bit
+    - Micro Frontend
 - 👯 I’m looking to collaborate on IoT
 - 💬 Ask me about TypeScript
 - 📫 How to reach me: aqilfiqran19@gmail.com
