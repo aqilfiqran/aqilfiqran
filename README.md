@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My Name is Aqil Fiqran Dzi'Ul Haq
-- 🔭 I’m currently working on React Native, React, Next.js, Node.js, and PHP 
+- 🔭 I’m currently working on React, React Native, Next.js, Node.js, Python, and PHP 
 - 🌱 I’m currently learning: 
     - Rust
     - Web3
